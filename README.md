@@ -1,3 +1,3 @@
-Example landing page sekolah devops cilsy \n
-Test Poll SCM \n
+Example landing page sekolah devops cilsy 
+Test Poll SCM 
 Test 123
